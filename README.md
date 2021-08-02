@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amhar333
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Pyhton
+- 🌱 I’m currently learning Pyhton, C++
 - 💞️ I’m looking to collaborate on Programmers
 - 📫 How to reach me amharazwar777gmail.com
 
